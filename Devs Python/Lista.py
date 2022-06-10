@@ -14,3 +14,4 @@ for aluno in range(3):
 		alunosAcimaDaMedia += 1
 
 print('O número de alunos acima da média é de: ', alunosAcimaDaMedia)
+

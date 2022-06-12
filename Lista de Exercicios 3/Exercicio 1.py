@@ -3,7 +3,7 @@ alunosAcimaDaMedia = 0
 
 #Faz uma contagem de valor manual entre 3 alunos
 
-for aluno in range(3):
+for aluno in range(10):
 	somaDasNotas = 0
  
 	#Faz uma contagem entre 4 notas para cada aluno 
